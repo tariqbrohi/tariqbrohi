@@ -13,22 +13,23 @@
 <hr>
 
 <!-- Personal details and image section -->
-💛 In love with <strong>JavaScript</strong> <img src="https://github.com/user-attachments/assets/03f28b46-a00a-4204-b070-817b98f169cc" min-width="300px" max-width="300px" width="350px" align="right" /> <br />
-🎨 Love writing <strong>CSS / SCSS</strong> <br />
-🌱 Full Stack Web Developer in <strong>Next JS</strong> <br />
-💬 Ask me about <strong>react, JavaScript, Next.js, Redux, APIs</strong> <br />
-⚡ Fun fact: <strong>I am motivated</strong> <br />
-👁️ Looking for <strong>open source contribution</strong>
+🏻‍💻 About Me ✨ Software Engineer | Founder at Codebotx <img src="https://github.com/user-attachments/assets/03f28b46-a00a-4204-b070-817b98f169cc" min-width="300px" max-width="300px" width="350px" align="right" /> <br />
+⚡ Check my ✨ <a href="https://codebotx.com">Website</a> or 🌱 <a href="https://www.linkedin.com/in/tariqbrohi/">Social</a> <br />
+📫 How to reach me: <a href="https://codebotx.com">Schedule Call</a> or <a href="https://www.linkedin.com/in/tariqbrohi/">Join Newsletter</a> <br />
+ <!-- Join my opensource community <a href="https://recodehive.com">recodehive</a> <br /> -->
+ Ask me about <strong>Fintech/Marketplace/SaaS Software Development.</strong>
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 16px;">
     <b>🛠Tech Stack</b><br>
     <div style="margin-bottom: 10px;">
       <b>Languages:</b><br>
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="height: 20px;" />&nbsp;
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="height: 20px;" />&nbsp;
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" style="height: 20px;" />
+      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" style="height: 20px;" />
     </div>
     <div style="margin-bottom: 10px;">
       <b>Frameworks & Libraries:</b><br>
@@ -42,7 +43,12 @@
       <img src="https://img.shields.io/badge/react_router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" style="height: 20px;" />&nbsp;
       <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" style="height: 20px;" />&nbsp;
       <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" style="height: 20px;" />
+      <img src="https://img.shields.io/badge/sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/JUCE-%23000000.svg?style=for-the-badge&logo=juce&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" style="height: 20px;" />&nbsp;
+      <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" style="height: 20px;" />
     </div>
     <div style="margin-bottom: 10px;">
       <b>Tools & Platforms:</b><br>
@@ -59,7 +65,7 @@
       <b>Databases:</b><br>
       <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" style="height: 20px;" />&nbsp;
       <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" style="height: 20px;" />
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" style="height: 20px;" />
     </div>
   </div>
 
@@ -84,7 +90,3 @@
 
   <!-- Buy Me a Coffee Button -->
 </div>
-
-<!-- Break for spacing -->
-<br>
-[![](https://visitcount.itsvg.in/api?id=tariqbrohi&label=Visitor%20Count&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)

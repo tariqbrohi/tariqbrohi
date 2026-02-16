@@ -19,9 +19,8 @@
 💬 Ask me about <strong>react, JavaScript, Next.js, Redux, APIs</strong> <br />
 ⚡ Fun fact: <strong>I am motivated</strong> <br />
 👁️ Looking for <strong>open source contribution</strong>
-<details>
-  <summary><b>🛠Tech Stack</b></summary><br>
-  <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 16px;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 16px;">
+    <b>🛠Tech Stack</b><br>
     <div style="margin-bottom: 10px;">
       <b>Languages:</b><br>
       <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" style="height: 20px;" />&nbsp;
@@ -63,7 +62,6 @@
       <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" style="height: 20px;" />
     </div>
   </div>
-</details>
 
 
 <!-- Break for spacing -->
@@ -91,34 +89,17 @@
 <!-- Break for spacing -->
 <br>
 
-<!-- GSSoC Badges Section -->
-## GSSoC'24 Badges 
-<div style="display:flex; align-items:center; gap: 10px;" align="left">
-  <a href="https://gssoc.girlscript.tech/leaderboard">
-    <!-- Displaying GSSoC badges -->
-    <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-    <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-    <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-    <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-    <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-    <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-    <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
-    <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  </a>
-</div>
-
 <!-- GitHub Trophies Section -->
 ## 🏆 GitHub Trophies
-<div align="center">
-  <!-- GitHub Trophy Card -->
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tariqbrohi&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
+</div> -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=tariqbrohi)](https://github.com/ryo-ma/github-profile-trophy)
 <br />
 
 <!-- Visitor Count Badge -->
 <div align="start">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=tariqbrohi&icon=1&color=0" alt="Visitor Count" />
-  </a>
+ <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=tariqbrohi&label=Visitor%20Count&color=12&icon=0&pretty=true" />
+</a>
 </div>

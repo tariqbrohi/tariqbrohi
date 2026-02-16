@@ -1,10 +1,16 @@
 <!-- Main Heading centered with LinkedIn profile link -->
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/tariqbrohi/">Tariq Brohi</a> </h1>
+<h1 align="center">
+  Hi there, I'm <a href="https://www.linkedin.com/in/tariqbrohi/">Tariq Brohi</a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Software+Engineer;Founder+at+Codebotx;Data+Engineer;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
 
 <!-- Social Links centered under the header -->
 <p align="center">
   <a href="https://codebotx.com/">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/tariqbrohi/">LinkedIn</a> - 
+  <a href="https://www.linkedin.com/in/tariqbrohi/">LinkedIn</a>
   <!-- <a href="https://x.com/dhruv_s_o_n_i">Twitter</a> -
   <a href="https://instagram.com/dhruv_s_o_n_i_">Instagram</a> -->
 </p>
@@ -13,11 +19,11 @@
 <hr>
 
 <!-- Personal details and image section -->
-🏻‍💻 About Me ✨ Software Engineer | Founder at Codebotx 
+About Me ✨ Software Engineer | Founder at Codebotx 
 <img src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" min-width="300px" max-width="300px" width="250px" align="right" /> <br />
 
-⚡ Check my ✨ <a href="https://codebotx.com">Website</a> or 🌱 <a href="https://www.linkedin.com/in/tariqbrohi/">Social</a> <br />
-📫 How to reach me: <a href="https://codebotx.com">Schedule Call</a> or <a href="https://www.linkedin.com/in/tariqbrohi/">Join Newsletter</a> <br />
+Check my ✨ <a href="https://codebotx.com">Website</a> or 🌱 <a href="https://www.linkedin.com/in/tariqbrohi/">Social</a> <br />
+How to reach me: <a href="https://codebotx.com">Schedule Call</a> or <a href="https://www.linkedin.com/in/tariqbrohi/">Join Newsletter</a> <br />
  <!-- Join my opensource community <a href="https://recodehive.com">recodehive</a> <br /> -->
  Ask me about <strong>Fintech/Marketplace/SaaS Software Development.</strong>
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 16px;">
@@ -28,8 +34,6 @@
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="height: 20px;" />&nbsp;
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="height: 20px;" />&nbsp;
       <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="height: 20px;" />&nbsp;
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="height: 20px;" />&nbsp;
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="height: 20px;" />&nbsp;
       <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" style="height: 20px;" />
     </div>

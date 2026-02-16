@@ -77,7 +77,6 @@
   <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tariqbrohi&theme=radical&utcOffset=8">
 
   <!-- Additional GitHub Readme Stats -->
-  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=tariqbrohi&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="tariqbrohi" />
   <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=tariqbrohi&theme=radical" alt="tariqbrohi" />
 
   <!-- Optional decorative SVG -->
@@ -89,17 +88,7 @@
 <!-- Break for spacing -->
 <br>
 
-<!-- GitHub Trophies Section -->
-## 🏆 GitHub Trophies
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tariqbrohi&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div> -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=tariqbrohi)](https://github.com/ryo-ma/github-profile-trophy)
-<br />
-
 <!-- Visitor Count Badge -->
 <div align="start">
- <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=tariqbrohi&label=Visitor%20Count&color=12&icon=0&pretty=true" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=tariqbrohi&label=Visitor%20Count&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 </div>

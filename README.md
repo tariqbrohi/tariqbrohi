@@ -13,7 +13,9 @@
 <hr>
 
 <!-- Personal details and image section -->
-🏻‍💻 About Me ✨ Software Engineer | Founder at Codebotx <img src="https://github.com/user-attachments/assets/03f28b46-a00a-4204-b070-817b98f169cc" min-width="300px" max-width="300px" width="350px" align="right" /> <br />
+🏻‍💻 About Me ✨ Software Engineer | Founder at Codebotx 
+<img src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" min-width="300px" max-width="300px" width="250px" align="right" /> <br />
+
 ⚡ Check my ✨ <a href="https://codebotx.com">Website</a> or 🌱 <a href="https://www.linkedin.com/in/tariqbrohi/">Social</a> <br />
 📫 How to reach me: <a href="https://codebotx.com">Schedule Call</a> or <a href="https://www.linkedin.com/in/tariqbrohi/">Join Newsletter</a> <br />
  <!-- Join my opensource community <a href="https://recodehive.com">recodehive</a> <br /> -->

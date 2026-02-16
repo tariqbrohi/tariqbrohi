@@ -1,6 +1,6 @@
 <!-- Main Heading centered with LinkedIn profile link -->
 <h1 align="center">
-  Hi there, I'm <a href="https://www.linkedin.com/in/tariqbrohi/">Tariq Brohi</a>
+  Hi there, I'm <a href="https://www.linkedin.com/in/tariqbrohi/" target="_blank">Tariq Brohi</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h1>
 <div align="center">
@@ -9,8 +9,8 @@
 
 <!-- Social Links centered under the header -->
 <p align="center">
-  <a href="https://codebotx.com/">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/tariqbrohi/">LinkedIn</a>
+  <a href="https://codebotx.com/portfolio" target="_blank">Portfolio</a> -
+  <a href="https://www.linkedin.com/in/tariqbrohi/" target="_blank">LinkedIn</a>
   <!-- <a href="https://x.com/dhruv_s_o_n_i">Twitter</a> -
   <a href="https://instagram.com/dhruv_s_o_n_i_">Instagram</a> -->
 </p>
@@ -22,8 +22,8 @@
 About Me ✨ Software Engineer | Founder at Codebotx 
 <img src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" min-width="300px" max-width="300px" width="250px" align="right" /> <br />
 
-Check my ✨ <a href="https://codebotx.com">Website</a> or 🌱 <a href="https://www.linkedin.com/in/tariqbrohi/">Social</a> <br />
-How to reach me: <a href="https://codebotx.com">Schedule Call</a> or <a href="https://www.linkedin.com/in/tariqbrohi/">Join Newsletter</a> <br />
+Check my ✨ <a href="https://codebotx.com" target="_blank">Website</a> or 🌱 <a href="https://www.linkedin.com/in/tariqbrohi/" target="_blank">Social</a> <br />
+How to reach me: <a href="https://codebotx.com/contact" target="_blank">Schedule Call</a> or <a href="https://www.linkedin.com/in/tariqbrohi/" target="_blank">Join Newsletter</a> <br />
  <!-- Join my opensource community <a href="https://recodehive.com">recodehive</a> <br /> -->
  Ask me about <strong>Fintech/Marketplace/SaaS Software Development.</strong>
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 16px;">
@@ -96,3 +96,4 @@ How to reach me: <a href="https://codebotx.com">Schedule Call</a> or <a href="ht
 
   <!-- Buy Me a Coffee Button -->
 </div>
+

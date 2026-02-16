@@ -87,8 +87,4 @@
 
 <!-- Break for spacing -->
 <br>
-
-<!-- Visitor Count Badge -->
-<div align="start">
 [![](https://visitcount.itsvg.in/api?id=tariqbrohi&label=Visitor%20Count&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
-</div>

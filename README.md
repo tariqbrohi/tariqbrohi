@@ -1,8 +1,9 @@
 <!-- Main Heading centered with LinkedIn profile link -->
-<h1 align="center">
+<img src="https://raw.githubusercontent.com/tariqbrohi/tariqbrohi/refs/heads/main/intro.png" width="100%" />
+<!-- <h1 align="center">
   Hi there, I'm <a href="https://www.linkedin.com/in/tariqbrohi/" target="_blank" rel="noopener noreferrer">Tariq Brohi</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</h1>
+</h1> -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Senior+Full+Stack+Software+Engineer;" alt="Typing SVG" />
 </div>
@@ -78,10 +79,14 @@ How to reach me: <a href="https://codebotx.com/contact" target="_blank" rel="noo
 <!-- GitHub Stats Section with alignment centered -->
 ## 📊 GitHub Stats:
 <div align="center">
-  <!-- 2024 Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tariqbrohi&theme=radical&hide_border=false&include_all_commits=true&count_private=false&commits_year=2024" alt="2024 Stats" />
-  <!-- 2024 Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tariqbrohi&theme=radical&hide_border=true&year=2024" alt="2024 Activity Graph" />
+ <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tariqbrohi&theme=radical">
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tariqbrohi&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tariqbrohi&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tariqbrohi&theme=radical">
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tariqbrohi&theme=radical&utcOffset=8">
+
+  <!-- Additional GitHub Readme Stats -->
+  <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=tariqbrohi&theme=radical" alt="tariqbrohi" />
 
   <!-- Optional decorative SVG -->
   <img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" />

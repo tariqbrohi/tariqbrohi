@@ -17,7 +17,8 @@
 <hr>
 
 <!-- Personal details and image section -->
-About Me ✨ Senior Full Stack Software Engineer 
+### About Me ✨ Senior Full Stack Software Engineer <br>
+I'm a Senior Full Stack Software Engineer specializing in building high-performance Fintech, Marketplace, and SaaS applications. With a strong foundation in both frontend and backend technologies, I create scalable solutions that drive business growth. My expertise spans across the entire development lifecycle, from architecture design to deployment. 
 <img src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7" min-width="300px" max-width="300px" width="250px" align="right" /> <br />
 
 <!-- Check my ✨ <a href="https://codebotx.com" target="_blank" rel="noopener noreferrer">Website</a> or 🌱 <a href="https://www.linkedin.com/in/tariqbrohi/" target="_blank" rel="noopener noreferrer">Social</a> <br />
